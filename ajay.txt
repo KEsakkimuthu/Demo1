@@ -1,0 +1,5 @@
+git pull orgin main--rebase
+git add .
+git commit-m "create new text"
+git status
+Sathya Morthy Buvanesh
